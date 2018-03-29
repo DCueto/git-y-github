@@ -1,0 +1,4 @@
+
+
+Prueba de edición de archivo con VIM.
+
