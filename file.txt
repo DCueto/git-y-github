@@ -2,3 +2,4 @@
 
 Prueba de edición de archivo con VIM.
 
+Texto editado.
