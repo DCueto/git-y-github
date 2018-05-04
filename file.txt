@@ -3,3 +3,5 @@
 Prueba de edición de archivo con VIM.
 
 Texto editado.
+
+Estoy añadiendo algo para poder hacer un pull request.
